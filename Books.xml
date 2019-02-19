@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category="Film">
+           <year>  2000  </year>
+           <price>  10  </price>
+    </book>        
+    <book category="Music">
+           <year>  2005  </year>
+           <price>  50  </price>
+    </book>
+    <book category="Music">
+           <year>  2010  </year>
+           <price>  35  </price>
+    </book>
+    <book category="Music">
+           <year>  1982  </year>
+           <price>  70  </price>
+    </book>
+    <book category="Health">
+           <year>  1965  </year>
+           <price>  50  </price>
+    </book>
+    <book category="Education">
+           <year>  2012  </year>
+           <price>  70  </price>
+    </book>
+</bookstore>
